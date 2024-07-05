@@ -54,8 +54,6 @@ Check out the live demo [here](https://ndtrung-dev.github.io/javascript-calculat
 
 All checkpoint passed!
 
-<b>Note:</b><br> - <code>bankOne</code> and <code>bankTwo</code> is retrieved from provided example.
-
 Source code uploaded to [github](https://github.com/ndtrung-dev/javascript-calculator-fcc).
 
 [Live demo](https://ndtrung-dev.github.io/javascript-calculator-fcc) is uploaded to github using <code>gh-pages</code>. <em>FCC Testing CDN</em> was embedded. Select <code>javascript-calculator</code> option from dropdown menu to verify the result.
